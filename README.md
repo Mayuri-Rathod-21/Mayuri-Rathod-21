@@ -20,10 +20,9 @@
 
 <p id="badges">
   <a href="https://www.linkedin.com/in/mayuri-rathod-cse">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LINKDIN&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
 ---
 
 ## Languages and Tools:
