@@ -10,17 +10,17 @@
 
 ## 🔥 My Stats :
 
-* 🎓 **Education:** Completed my Diploma in Computer Science Engineering
+* 🎓 **Education:** Completed my Diploma in Computer Science Engineering (MSBTE)
 * 💼 **Experience:** Worked as a Full Stack Developer at **Laksh IT Solution**
 * 🌶️ **Backend Framework:** Proficient in building web applications using **Flask**
-* 🚀 **Current Projects:** Actively developing web applications and deployment tools
-* 🛠️ **Learning & Exploring:** Advanced automation testing and application frameworks
+* 🚀 **Key Projects:** Developed **HireTrack** (a digital placement tracking system)
+* 🛠️ **Learning & Exploring:** Digital Forensics, Network Analysis, and Automation Testing using Selenium
 
 ## Connect with me:
 
 <p id="badges">
   <a href="https://www.linkedin.com/in/mayuri-rathod-cse">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
